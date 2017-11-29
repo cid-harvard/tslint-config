@@ -7,9 +7,6 @@
   ],
   "license": "MIT",
   "author": "Huy Nguyen <huy@huy-nguyen.com> (https://www.huy-nguyen.com/)",
-  "files": [
-    "index.js"
-  ],
   "main": "index.js",
   "repository": {
     "type": "git",
