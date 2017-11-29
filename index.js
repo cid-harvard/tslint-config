@@ -33,6 +33,6 @@ module.exports = {
     'jsx-no-multiline-js': true,
     'jsx-no-string-ref': true,
     'jsx-self-close': true,
-    'jsx-wrap-multiline': true
-  }
-}
+    'jsx-wrap-multiline': true,
+  },
+};
