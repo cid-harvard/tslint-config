@@ -15,7 +15,7 @@ module.exports = {
     'comment-format': false,
     'no-var-requires': false,
     'prefer-const': true,
-    'trailing-comma': [true, {'multiline': 'always', 'singleline': 'never'}],
+    'trailing-comma': [true, {'multiline': 'always', 'singleline': 'never', 'esSpecCompliant': true}],
     'triple-equals': true,
     'no-irregular-whitespace': true,
     'indent': [true, 'spaces', 2],
