@@ -19,5 +19,10 @@
     "tslint": "5.8.0",
     "tslint-react": "3.2.0",
     "typescript": "2.6.2"
+  },
+  "devDependencies": {
+    "@cid-harvard/eslint-config": "0.1.2",
+    "babel-eslint": "8.0.2",
+    "eslint": "4.12.0"
   }
 }
