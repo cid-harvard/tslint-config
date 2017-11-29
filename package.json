@@ -1,6 +1,6 @@
 {
   "name": "@cid-harvard/tslint-config",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Standard base tslint config for the development team at Harvard CID",
   "keywords": [
     "tslint"
