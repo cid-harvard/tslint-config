@@ -1,6 +1,6 @@
 {
   "name": "@cid-harvard/tslint-config",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Standard base tslint config for the development team at Harvard CID",
   "keywords": [
     "tslint"
@@ -13,13 +13,13 @@
     "url": "git+https://github.com/cid-harvard/tslint-config.git"
   },
   "dependencies": {
-    "tslint": "5.8.0",
-    "tslint-react": "3.2.0",
-    "typescript": "2.6.2"
+    "tslint": "5.9.1",
+    "tslint-react": "3.5.1",
+    "typescript": "2.7.2"
   },
   "devDependencies": {
     "@cid-harvard/eslint-config": "0.1.2",
-    "babel-eslint": "8.0.2",
-    "eslint": "4.12.0"
+    "babel-eslint": "8.2.2",
+    "eslint": "4.18.2"
   }
 }
